@@ -11,7 +11,7 @@ Sorry, there is no setup.py script...
   - openmpi (maybe mpich... should be okay... has not been tested...)
   - PETSc
   - HDF5 library with parallel support
-  - Python (tested with 2.7, but should be compatible with 3.6) with the following libraries:
+  - Python (works only with 2.7 because based on [GIAnT](http://earthdef.caltech.edu/projects/giant)) with the following libraries:
     - numpy
     - scipy
     - mpi4py
@@ -19,9 +19,15 @@ Sorry, there is no setup.py script...
     - petsc4py 
   
 2. Clone mpits in a directory
-3. Add the appropriate directory to your PYTHONPATH 
+3. Install [GIAnT](http://earthdef.caltech.edu/projects/giant)
+4. Add the appropriate directory to your PYTHONPATH 
 
 ## Examples
 
 For examples, please visit [R. Jolivet's website](http://www.geologie.ens.fr/~jolivet).
+
+## TODO
+
+Make sure GIAnT is python3 compatible and check that mpits runs as well.
+
 
