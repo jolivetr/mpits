@@ -26,8 +26,14 @@ Sorry, there is no setup.py script...
 
 For examples, please visit [R. Jolivet's website](http://www.geologie.ens.fr/~jolivet).
 
+## Manual
+
+See TODO...
+
 ## TODO
 
-Make sure GIAnT is python3 compatible and check that mpits runs as well.
+- Make sure GIAnT is python3 compatible and check that mpits runs as well.
+- Write a manual...
+
 
 
